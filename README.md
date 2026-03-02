@@ -1,4 +1,4 @@
-\# R-Learnings
+# R-Learnings
 
 I have created this repo to learn R-programming Language for GSOC-2026 as fast as possible.
 
@@ -6,17 +6,17 @@ This Repo will also help me to keep the track of my progress for mastering R for
 
 
 
-\## 📌 Milestones
+## 📌 Milestones
 
-1\. \*\*The "Tidy" EDA\*\*: Mastering `dplyr` and `ggplot2` through Stock/COVID-19 data analysis.
+1. **The "Tidy" EDA**: Mastering `dplyr` and `ggplot2` through Stock/COVID-19 data analysis.
 
 
 
-\## 🛠️ Tools
+## 🛠️ Tools
 
-\- Language: R
+- Language: `R`
 
-\- IDE: RStudio / VS Code
+- IDE: `RStudio` / `VS Code`
 
-\- Primary Libraries: Tidyverse
+- Primary Libraries: `Tidyverse`
 
